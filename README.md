@@ -1,2 +1,2 @@
 # hieloz.github.io
-Deploy a hugo blog github action
+Deploy a hugo blog with github Actions
